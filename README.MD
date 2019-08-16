@@ -1,4 +1,5 @@
 # CAP6610 Machine Learning 
+#### Author: Derek Wu
 
 Machine Learning is a course that develops computer programs that learn and improve with experiences. Various algorithms were studied with the emphasis on methods based on probability, statitics, and optimization. 
 
